@@ -1,0 +1,10 @@
+build/
+output/
+*.exe
+*.o
+*.obj
+
+.vscode/
+
+.DS_Store
+Thumbs.db
